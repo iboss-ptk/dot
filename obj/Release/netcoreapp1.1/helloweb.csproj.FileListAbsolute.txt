@@ -1,0 +1,8 @@
+/Users/supanat/personal-project/helloweb/bin/Release/netcoreapp1.1/helloweb.deps.json
+/Users/supanat/personal-project/helloweb/bin/Release/netcoreapp1.1/helloweb.runtimeconfig.json
+/Users/supanat/personal-project/helloweb/bin/Release/netcoreapp1.1/helloweb.runtimeconfig.dev.json
+/Users/supanat/personal-project/helloweb/bin/Release/netcoreapp1.1/helloweb.dll
+/Users/supanat/personal-project/helloweb/bin/Release/netcoreapp1.1/helloweb.pdb
+/Users/supanat/personal-project/helloweb/obj/Release/netcoreapp1.1/helloweb.AssemblyInfo.cs
+/Users/supanat/personal-project/helloweb/obj/Release/netcoreapp1.1/helloweb.dll
+/Users/supanat/personal-project/helloweb/obj/Release/netcoreapp1.1/helloweb.pdb
